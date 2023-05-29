@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Next JS 13 Full Stack App with Google Auth, Tailwind CSS
+
+## How it looks?
+
+![Screenshot 2023-05-29 210609](https://github.com/fvdime/nextjs-full-stack-app/assets/73942727/d58f4333-6d94-473d-ab01-eb252b4619bb)
+![Screenshot 2023-05-29 210628](https://github.com/fvdime/nextjs-full-stack-app/assets/73942727/2d3cd1cf-37cb-4eef-b718-30173c9038f9)
+![Screenshot 2023-05-29 200923](https://github.com/fvdime/nextjs-full-stack-app/assets/73942727/21493c51-d106-4d41-904a-9197c47c6471)
+
+## References
+I studied this project with JavaScript Mastery please check out his channel --> https://youtu.be/wm5gMKuwSYk
+
 ## Getting Started
 
 First, run the development server:
